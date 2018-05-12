@@ -1,0 +1,28 @@
+_repo: The-History-of-the-Confederate-War-Its-Causes-and-Its-Conduct-Volume-I--of-2-A-Narrative-and-__45609
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45609-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Eggleston, George Cary
+    birthdate: 1839
+    deathdate: 1911
+    gutenberg_agent_id: '8154'
+    url: http://www.gutenberg.org/2009/agents/8154
+    wikipedia: https://en.wikipedia.org/wiki/George_Cary_Eggleston
+description: ''
+gutenberg_issued: '2014-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+- !lcc 'E456'
+title: "The History of the Confederate War, Its Causes and Its Conduct, Volume 1 (of\
+  \ 2)\r\nA Narrative and Critical History"
+url: http://www.gutenberg.org/ebooks/45609
